@@ -4,7 +4,6 @@
 ## Hey there!
 
 [Website](https://www.fusioneers.space)
-[](https://www.fusioneers.space)
 
 
 ## Members
