@@ -3,7 +3,7 @@
 
 ## Hey there!
 
-[Website](https://www.fusioneers.space)
+Visit [fusioneers.space](https://www.fusioneers.space)
 
 
 ## Members
