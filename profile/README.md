@@ -18,9 +18,9 @@ Visit [fusioneers.space](https://www.fusioneers.space)
 
 ### 2022
 
-* [DeepCream](https://deepcream.fusioneers.space/) - Cloud detection, analysis, classification and interpretation ([repo](https://github.com/Fusioneers/DeepCream))
-* [SenseBox](https://sensebox.fusioneers.space/) - Estimation of altitude above sea level by an AI using ambient conditions ([repo](https://github.com/Fusioneers/SenseBox))
+* [DeepCream](https://github.com/Fusioneers/DeepCream) - Cloud detection, analysis, classification and interpretation - [deepcream.fusioneers.space](https://deepcream.fusioneers.space/)
+* [SenseBox](https://github.com/Fusioneers/SenseBox) - Estimation of altitude above sea level by an AI using ambient conditions - [sensebox.fusioneers.space](https://sensebox.fusioneers.space/)
 
 ### 2021
 
-* [Stamina](https://stamina.fusioneers.space/) - Fitness application that checks exercises with a camera ([repo](https://github.com/Fusioneers/Stamina))
+* [Stamina](https://github.com/Fusioneers/Stamina) - Fitness application that checks exercises with a camera - [stamina.fusioneers.space](https://stamina.fusioneers.space/)
