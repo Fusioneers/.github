@@ -1,11 +1,5 @@
 # Fusioneers
 
-
-## Hey there!
-
-Visit [fusioneers.space](https://www.fusioneers.space)
-
-
 ## Members
 
 * **Kevin Kretz** ([@theKevinKretz](https://github.com/theKevinKretz))
@@ -19,7 +13,7 @@ Visit [fusioneers.space](https://www.fusioneers.space)
 ### 2022
 
 * [DeepCream](https://github.com/Fusioneers/DeepCream) - Cloud detection, analysis, classification and interpretation - [deepcream.fusioneers.space](https://deepcream.fusioneers.space/)
-* [SenseBox](https://github.com/Fusioneers/SenseBox) - Estimation of altitude above sea level by an AI using ambient conditions - [sensebox.fusioneers.space](https://sensebox.fusioneers.space/)
+* [SenseBox](https://github.com/Fusioneers/SenseBox) - Estimation of altitude above sea level by an AI using ambient conditions
 
 ### 2021
 
